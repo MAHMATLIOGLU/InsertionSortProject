@@ -1,4 +1,4 @@
-# [22,27,16,2,18,6] -> Insertion Sort ile türüne göre aşamaları
+# [22,27,16,2,18,6] -> Insertion Sort türüne göre aşamaları
 
 * 1. Aşama [2,27,16,22,18,6]
 * 2. Aşama [2,6,16,22,18,27]
