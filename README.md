@@ -1,2 +1,2 @@
 # Insertion Sort Projesi
-## https://app.patika.dev/paths
+## https://app.patika.dev
